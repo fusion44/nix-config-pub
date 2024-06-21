@@ -1,0 +1,13 @@
+{
+  "device_name": "xps13",
+  "vpn_enable": false,
+  "vpn_name":"proton_de",
+  "vpn_pubkey": "JC6Q..VQk=",
+  "vpn_ip": "194..6",
+  "zt_enable": false,
+  "zt_network": "xxx",
+  "wakapi_enable": false,
+  "wakapi_url": "http://localhost:3000/api/heartbeat",
+  "wakapi_api_key": "722...-...-...-...-...559"
+
+}
